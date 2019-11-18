@@ -16,5 +16,8 @@
     "bootstrap"
   ],
   "author": "Olena Ovchar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
